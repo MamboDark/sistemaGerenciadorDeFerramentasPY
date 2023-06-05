@@ -14,18 +14,6 @@
 
 <hr>
 
- <h1 align="center"> DEV TEAM 04 </h1>
- <hr>
-
-
-* [EMERSON GREGORIO ALVES](https://github.com/Gregdev22) - MATRICULA: 2022.0908.4986
-* [NELSON CARVALHO DE LIMA JUNIOR](https://github.com/MamboDark) - MATRICULA: 2022.0835.3568
-* [PAULO RICARDO DA SILVA](https://github.com/pauloricardosilva) - MATRICULA: 2017.0825.8868
-* [LUAN AUGUSTO VIEIRA BANDEIRA](https://github.com/luanguto) - MATRICULA: 2022.0918.1337
-* [ANDREY HAERTEL AIRES](https://github.com/AndreyHaires) - MATRICULA: 2021.0722.8512
-* [ANNA ELIZA DE ALMEIDA SILVA](https://github.com/devAnna19) - MATRICULA: 2022.0883.7093
-
-
  <h1 align="center"> PROJETO </h1>
  <hr>
 
